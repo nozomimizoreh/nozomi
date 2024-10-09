@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = [".gg/aoitori", "vouch within 12 hrs !"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'online', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
