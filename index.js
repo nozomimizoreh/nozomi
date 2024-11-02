@@ -37,8 +37,8 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = [".gg/aoitori", "vouch within 12 hrs !"];
-const statusTypes = [ 'online', 'online'];
+const statusMessages = ["shop now !", "watching .gg/xerezaa", "xoxo, cely", "cely ♡ jay"];
+const statusTypes = [ 'online', 'online', 'online', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
